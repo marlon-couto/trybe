@@ -1,0 +1,12 @@
+{
+  "name": "trybe",
+  "version": "1.0.0",
+  "description": "Esse repositório contém todas as atividades de aprendizagem desenvolvidas por [mim](https://www.linkedin.com/in/marlon-couto-406387236/) enquanto estudante da [Trybe](https://www.betrybe.com/) 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
