@@ -26,8 +26,6 @@ A oitava e última seção teve como tema as HoFs ou Higher Order Functions do E
 
 ### [Seção 1: Unix e Bash]()
 
-- [x] Dia 1: Fundamentos do desenvolvimento web
-- [x] DIa 1: Introdução - Unix e Shell
 - [x] Dia 1: Unix e Bash - Parte 1
 - [x] Dia 2: Unix e Bash - Parte 2
 
@@ -35,11 +33,9 @@ A oitava e última seção teve como tema as HoFs ou Higher Order Functions do E
 
 - [x] Dia 1: O que é e para que serve
 - [x] Dia 2: Entendendo os comandos
-- [x] Dia 3: Internet - Entendendo como ela funciona
 
 ### [Seção 3: Introdução à HTML e CSS]()
 
-- [x] Dia 1: Introdução - HTML e CSS
 - [x] Dia 1: HTML e CSS - Estruturas de página
 - [x] Dia 2: HTML e CSS - Primeiros passos em CSS
 - [x] Dia 3: HTML e CSS - Seletores e posicionamento
@@ -52,7 +48,8 @@ A oitava e última seção teve como tema as HoFs ou Higher Order Functions do E
 - [x] Dia 2: JavaScript - Array e loop for
 - [x] Dia 3: JavaScript - Lógica de programação e algoritmos
 - [x] Dia 4: JavaScript - Objetos e funções
-- [x] Dia 5: [Projeto - Playground Functions]()
+- [x] Dia 5: JavaScript ES6 - let, const, arrow functions, template literals e operadores ternários
+- [x] Dia 6: [Projeto - Playground Functions]()
 
 ### [Seção 5: JavaScript - Dom, Eventos e Web Storage]()
 
@@ -74,16 +71,16 @@ A oitava e última seção teve como tema as HoFs ou Higher Order Functions do E
 
 ### [Seção 7: Introdução à JavaScript ES6 e Testes Unitários]()
 
-- [x] Dia 1: JavaScript ES6 - let, const, arrow functions, template literals e operadores ternários
-- [x] Dia 2: JavaScript ES6 - Fluxo de exceção e objetos
-- [x] Dia 3: Primeiros passos em Jest
+- [x] Dia 1: JavaScript ES6 - Fluxo de exceção e objetos
+- [x] Dia 2: Primeiros passos em Jest
+- [x] Dia 3: Matchers e cobertura de código
 - [x] Dia 4: [Projeto - JavaScript Testes Unitários]()
 
 ### [Seção 8: Higher Order Functions do JavaScript ES6]()
 
 - [x] Dia 1: JavaScript ES6 - Introdução às higher order functions
-- [x] Dia 2: Higher order functions - forEach, find, some, every e sort
-- [x] Dia 3: Higher order functions - map e filter
-- [x] Dia 4: Higher order functions - reduce
-- [x] Dia 5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] Dia 2: Higher order functions - sort e map
+- [x] Dia 3: Higher order functions - filter e reduce
+- [x] Dia 4: JavaScript ES6 - Spread operator, parâmetro rest e object destructuring
+- [x] Dia 5: JavaScript Es6 - Array destructuring, default destructuring, object property shorthand e default parameters
 - [x] Dia 6: [Projeto - Zoo Functions]()
