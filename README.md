@@ -25,57 +25,65 @@ Na penúltima seção, me foi introduzido funcionalidades da EcmaScript 6 (arrow
 A oitava e última seção teve como tema as HoFs ou Higher Order Functions do ES6, além de outras funcionalidades do JavaScript moderno. Ao fim da seção, realizei o projeto [Zoo Functions](), no qual obtive 100% de aprovação. Esse projeto também marcou a conclusão do módulo de Fundamentos.
 
 ### [Seção 1: Unix e Bash]()
+
 [x] Dia 1: Fundamentos do desenvolvimento web
 [x] DIa 1: Introdução - Unix e Shell
 [x] Dia 1: Unix e Bash - Parte 1
 [x] Dia 2: Unix e Bash - Parte 2
 
 ### [Seção 2: Git, GitHub e Internet]()
+
 [x] Dia 1: O que é e para que serve
 [x] Dia 2: Entendendo os comandos
 [x] Dia 3: Internet - Entendendo como ela funciona
 
 ### [Seção 3: Introdução à HTML e CSS]()
+
 [x] Dia 1: Introdução - HTML e CSS
 [x] Dia 1: HTML e CSS - Estruturas de página
 [x] Dia 2: HTML e CSS - Primeiros passos em CSS
 [x] Dia 3: HTML e CSS - Seletores e posicionamento
 [x] Dia 4: HTML semântico
-[x] Dia 5: Projeto - Lessons Learned
+[x] Dia 5: [Projeto - Lessons Learned]()
 
 ### [Seção 4: Introdução à JavaScript]()
+
 [x] Dia 1: JavaScript - Primeiros passos
 [x] Dia 2: JavaScript - Array e loop for
 [x] Dia 3: JavaScript - Lógica de programação e algoritmos
 [x] Dia 4: JavaScript - Objetos e funções
-[x] Dia 5: Projeto - Playground Functions
+[x] Dia 5: [Projeto - Playground Functions]()
 
 ### [Seção 5: JavaScript - Dom, Eventos e Web Storage]()
+
 [x] Dia 1: JavaScript - DOM e seletores
 [x] Dia 2: JavaScript - Trabalhando com elementos
 [x] Dia 3: JavaScript - Eventos
 [x] Dia 4: JavaScript - Web storage
-[x] Dia 5: Projeto - Arte com Pixels
-[x] Dia 6: Projetos bônus
+[x] Dia 5: [Projeto - Arte com Pixels]()
+[x] Dia 6: [Projetos bônus]()
 
 ### [Seção 6: HTML e CSS - Forms, Flexbox e Responsivo]()
+
 [x] Dia 1: HTML e CSS - Forms
 [x] Dia 2: Bibliotecas JavaScript e frameworks CSS
 [x] Dia 3: CSS flexbox - Parte 1
 [x] Dia 4: CSS flexbox - Parte 2
 [x] Dia 5: CSS responsivo - Mobile first
-[x] Dia 6: Projeto - Trybewarts
+[x] Dia 6: [Projeto - Trybewarts]()
 
 ### [Seção 7: Introdução à JavaScript ES6 e Testes Unitários]()
+
 [x] Dia 1: JavaScript ES6 - let, const, arrow functions, template literals e operadores ternários
 [x] Dia 2: JavaScript ES6 - Fluxo de exceção e objetos
 [x] Dia 3: Primeiros passos em Jest
-[x] Dia 4: Projeto - JavaScript Testes Unitários
+[x] Dia 4: [Projeto - JavaScript Testes Unitários]()
 
 ### [Seção 8: Higher Order Functions do JavaScript ES6]()
+
 [x] Dia 1: JavaScript ES6 - Introdução às higher order functions
 [x] Dia 2: Higher order functions - forEach, find, some, every e sort
 [x] Dia 3: Higher order functions - map e filter
 [x] Dia 4: Higher order functions - reduce
 [x] Dia 5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-[x] Dia 6: Projeto - Zoo Functions
+[x] Dia 6: [Projeto - Zoo Functions]()
