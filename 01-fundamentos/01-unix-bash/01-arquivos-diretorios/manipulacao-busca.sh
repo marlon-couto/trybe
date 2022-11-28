@@ -17,6 +17,8 @@ grep -i brazil countries.txt
 grep -ic fox phrases.txt
 wc -w phrases.txt
 wc -l phrases.txt
+
+# Comando ls
 touch empty.tbt empty.pdf
 ls *
 ls *.txt
