@@ -14,7 +14,7 @@ Depois, aprendi sobre git, GitHub e criei meu primeiro repositório seguindo as 
 
 Na terceira seção, aprendi o básico sobre HTML e CSS: como construir uma página estática e estilizá-la, como melhorar a semântica do HTML para melhorar a acessibilidade e tornar o site mais visível para motores de busca. Ao fim da seção, concluí o projeto [Lessons Learned]() com 100% de aprovação.
 
-Na quarta seção, aprendi os conceitos básicos de lógica de programação e da sintaxe essencial de JavaScript, como: arrays, loop for, objetos e funções. Ao final da seção, finalizei o projeto [Playgroung Functions]() com 100% de aprovação.
+Na quarta seção, aprendi os conceitos básicos de lógica de programação e da sintaxe essencial de JavaScript, como: arrays, loop for, objetos e funções. Ao final da seção, finalizei o projeto [Playground Functions]() com 100% de aprovação.
 
 Depois, avancei mais nos estudos de JavaScript. O foco dessa seção foi manipulação do DOM e web storage. Realizei exercícios práticos com seletores, eventos, sessionStorage e localStorage, etc. Ao fim da seção, fiz o projeto [Arte com Pixels]() e obtive 100% de aprovação. Além disso, também fiz os seguintes projetos bônus: [TODO]().
 
