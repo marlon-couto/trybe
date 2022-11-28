@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Interage com arquivos e diretórios em unix_tests
 mkdir unix_tests
 cd unix_tests
 touch trybe.txt
@@ -14,3 +16,10 @@ pwd
 ls
 rm -R backup
 clear
+
+# Interage com o arquivo skills.txt
+head -5 skills.txt
+tail -4 skills.txt
+
+# Apaga todos os arquivos de texto desse diretório e de unix_tests
+rm */*.txt
