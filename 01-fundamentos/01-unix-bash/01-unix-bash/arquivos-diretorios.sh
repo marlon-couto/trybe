@@ -34,4 +34,4 @@ head -5 skills.txt
 tail -4 skills.txt
 
 # Apaga todos os arquivos de texto desse diretório e de unix_tests
-rm */*.txt
+rm *.txt
