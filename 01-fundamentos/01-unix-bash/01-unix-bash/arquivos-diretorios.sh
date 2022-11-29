@@ -17,6 +17,18 @@ ls
 rm -R backup
 clear
 
+# Cria o arquivo skills.txt
+cat <<EOT >skills.txt
+Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL
+EOT
+
 # Interage com o arquivo skills.txt
 head -5 skills.txt
 tail -4 skills.txt
