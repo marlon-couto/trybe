@@ -41,3 +41,9 @@ cat <<EOT >>phrases2.txt
 Brasil
 Japão
 EOT
+
+# Cria o arquivo bunch_of_things.txt
+cat phrases2.txt ../../01-unix-bash/unix_tests_search/countries.txt >bunch_of_things.txt
+
+# Ordena o arquivo bunch_of_things.txt
+sort bunch_of_things.txt >bunch_of_things_ordenado.txt
