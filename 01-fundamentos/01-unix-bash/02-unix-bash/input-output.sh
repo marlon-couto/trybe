@@ -24,3 +24,7 @@ EOT
 sort skills2.txt
 wc -l skills2.txt
 head -3 skills2.txt | sort >top_skills.txt
+
+# Cria o arquivo phrases2.txt
+cat <<EOT >>phrases2.txt
+
