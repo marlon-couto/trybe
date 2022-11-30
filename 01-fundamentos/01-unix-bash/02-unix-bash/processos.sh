@@ -17,7 +17,7 @@ sleep 100 # (suspender)
 jobs
 fg %1
 
-# Suspender o sleep 300
+# Suspende o sleep 300
 
 # Traz o sleep 100 para foreground
 bg %3
