@@ -7,5 +7,5 @@ cd unix_tests_permissions
 # Interage com o arquivo arquivo_teste.txt
 ls -l
 touch arquivo_teste.txt
-chmod 444 arquivo_teste.txt
-ls -ls
+chmod 666 arquivo_teste.txt
+ls -l
