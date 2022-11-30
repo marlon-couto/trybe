@@ -9,3 +9,5 @@ ls -l
 touch arquivo_teste.txt
 chmod 666 arquivo_teste.txt
 ls -l
+chmod 444 arquivo_teste.txt
+chmod 644 arquivo_teste.txt
