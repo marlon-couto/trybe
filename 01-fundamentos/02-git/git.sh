@@ -41,7 +41,7 @@ git add . && git commit -m 'Adiciona o arquivo infos.txt'
 # Cria branch a partir da branch atualiza-readme
 git checkout -b adiciona-infos
 cat <<EOT >>infos.txt
-O versionamento cria versões de seus arquivos, assim podemos retornar para versões anteriores caso as alterações recentes causem bugs ou erros no projeto/sistema
+O versionamento cria versões de seus arquivos, assim podemos retornar para versões anteriores caso as alterações recentes causem bugs ou erros no projeto/sistema.
 EOT
 
 # Adiciona as alterações, commita e mergeia as branchs
