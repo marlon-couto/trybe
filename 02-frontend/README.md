@@ -26,6 +26,11 @@ Agora, quando um botão for clicado, altere de forma assíncrona o estado deste 
 
 Por fim, incremente a contagem de um botão sempre que ele for clicado.
 
+### Para fixar IV
+
+- Defina uma lógica que estabeleça que, quando o número de cliques no botão for par, ele deve ser verde.
+- Agora, ao clicar no botão, a sua cor atual deve ser impressa por meio de um `console.log()`. Essa lógica **precisa ser implementada na mesma função utilizada para aumentar o contador de cliques dos botões**.
+
 A aplicação está [nesse]() repositório.
 
 ## Dia 2: Formulários no React
