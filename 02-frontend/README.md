@@ -33,6 +33,14 @@ Por fim, incremente a contagem de um botão sempre que ele for clicado.
 
 A aplicação está [nesse]() repositório.
 
+### Pokédex - React com estado
+
+Nesse exercício você encontrará uma Pokédex que já está funcionando e exibindo uma lista de pokémon usando componentes React.
+
+Sua missão será ~~capturar todos os pokémon~~ incrementar essa aplicação para que, além de componentes, também seja usado o estado do React, de forma que seja exibido apenas um pokémon por vez e que seja possível filtrar por tipo.
+
+A Pokédex está [aqui]().
+
 ## Dia 2: Formulários no React
 
 ## Exercícios
