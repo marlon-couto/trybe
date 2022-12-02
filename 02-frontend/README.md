@@ -45,7 +45,11 @@ A Pokédex está [aqui]().
 
 ## Exercícios
 
-###
+### Para fixar I
+
+-   Crie um novo projeto utilizando `npx create-react-app my-form-1.0`.
+-   Crie um formulário que contenha os seguintes elementos: um campo `select`, dois `inputs` de tipo diferente e uma `textarea` . Feito isso, faça com que um desses elementos seja um componente controlado, ou seja, elemento do formulário controlado pelo _Estado_.
+-   Baixe a [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) e nela veja o dado, inserido no elemento controlado, sendo salvo no _Estado_.
 
 ## Dia 3: Projeto - Tryunfo
 
