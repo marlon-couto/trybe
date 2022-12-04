@@ -51,6 +51,13 @@ A Pokédex está [aqui]().
 -   Crie um formulário que contenha os seguintes elementos: um campo `select`, dois `inputs` de tipo diferente e uma `textarea` . Feito isso, faça com que um desses elementos seja um componente controlado, ou seja, elemento do formulário controlado pelo _Estado_.
 -   Baixe a [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) e nela veja o dado, inserido no elemento controlado, sendo salvo no _Estado_.
 
+### Para fixar II
+
+-   Faça todos os seus elementos componentes do formulário, criado nos exercícios anteriores, ficarem 100% controlados. Para isso, construa um _event handler_ genérico para lidar com eles.
+-   Acrescente no seu formulário um `input` do tipo `checkbox`, e garanta que seu `event handler` esteja tratando este caso corretamente.
+-   Na documentação de React (primeiro link da seção de Recursos Adicionais!), busque sobre os formulários e faça a leitura de como se deve adicionar um `input` para **arquivos**. Feito isso, acrescente um `input` ao seu formulário. 
+-   Encapsule alguns dos seus campos num `fieldset`. Para isso, primeiro entenda como ele funciona lendo a [documentação](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/fieldset)
+
 ## Dia 3: Projeto - Tryunfo
 
 O projeto está [nesse]() repositório.
