@@ -64,6 +64,14 @@ A Pokédex está [aqui]().
 - Faça validações nos componentes criados.
 - Crie no estado do componente pai, um campo `formularioComErros` o qual deve ser `true`, caso algum desses componentes tenha erros e `false` caso os componentes não tenham erros.
 
+### Criando um formulário em React
+
+Formulários estão presentes em todas as aplicações web. Se você já fez algum cadastro em algum site, você já preencheu um formulário.
+
+Mas agora chegou a hora de você estar do outro lado! Nesse exercício, você desenvolverá seu próprio formulário, com regras de validação bem específicas para cada campo.
+
+O link para o repositório desse exercício está [aqui]().
+
 ## Dia 3: Projeto - Tryunfo
 
 O projeto está [nesse]() repositório.
