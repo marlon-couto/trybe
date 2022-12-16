@@ -62,6 +62,8 @@ Crie uma aplicação que renderiza os dados de uma pessoa aleatória, que são o
 }
 ```
 
+O exercício de fixação está nesse [repositório]().
+
 ### Teste seu conhecimento: Dogs API
 
 Neste exercício você vai desenvolver uma página que consome a API [dog.ceo](https://dog.ceo/dog-api/) de fotos aleatórias de cachorros!
